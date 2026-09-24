@@ -1,0 +1,11 @@
+{
+  "product_name": "Вал-шестерня 12.34.567",
+  "material_cost": 1048.1,
+  "operations_cost": 4804.35,
+  "wage_cost": 1981.85,
+  "equipment_cost": 2822.5,
+  "overhead_cost": 1053.44,
+  "metal_utilization": 0.663,
+  "direct_cost": 5852.45,
+  "total_cost": 6905.89
+}
